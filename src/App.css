@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+button {
+
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  float: right;
+  border-radius: 25px;
+  border: none;
+  background-color: orange;
+
+}
+
+button:hover {
+  transition: all 0.5s ease;
+  scale: 1.03;
+  background-color: black;
+  cursor: pointer;
+}
+
+.column1 {
+  height: 100%;
+  float: left;
+  width: 90%;
+}
+
+.column1 h2 {
+  font-family: "Poppins";
+  text-transform: uppercase;
+}
+
+.column2 {
+  height: 100%;
+  float: left;
+  width: 10%;
+}
+
+.row {
+  height: 50px;
+  padding: 20px 50px 0px 30px;
+}
+
+.box {
+  background-color: #13c6dd !important;
+}
+
+.box2 {
+  margin-left: 100px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+
+.column3 {
+  float: left !important;
+  width: 33% !important;
+}
+
+h2 {
+  color: #fff;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+
+.profile {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+  max-width: 300px;
+  margin: 20px 5px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 15px;
+  border-radius: 55px;
+  background-image: linear-gradient(to right, rgb(24, 149, 221), #13c6dd);
+  opacity: 0.7;
+}
+
+.profile:hover {
+  transition: all 0.5s ease;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  transform: scale(1.025);
+  opacity: 1;
+}
+
+.email {
+  color: black;
+  font-size: 18px;
+  overflow-wrap: anywhere;
+}
+
+.name {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.loader {
+  align-items: center;
+  background-color: #fff;
+  height: 230px;
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-right: 800px;
+}
