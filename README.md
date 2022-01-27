@@ -13,7 +13,3 @@ Creating a web application using create-react-app. The application should have f
 ## Tech Stack Used
 
 ![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Live Demo
-
-Visit Website :https://lgmvip-web-development-react-app-enw0hgrta-anushruti11.vercel.app/
